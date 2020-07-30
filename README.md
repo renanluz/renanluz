@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Explosion](https://plus.google.com/u/0/collection/gFeob?cfem=1)
+
 
