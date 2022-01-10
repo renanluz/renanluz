@@ -1,9 +1,9 @@
-## Olá! Eu sou o Renan Luz! 😁
+## Olá, Meu nome é Renan Luz! 😁
 
 <div align="center">
   <a href="https://github.com/renanluz"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanluz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanluz&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanluz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanluz&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
 </div>
   
   <div style="display: inline_block"><br>
